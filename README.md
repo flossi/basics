@@ -1,2 +1,1 @@
-# basics
-I blame history for everything! blabla
+This folder contains various R routines.
